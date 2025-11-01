@@ -1,0 +1,47 @@
+[
+  {
+    "inputItem": "apocalypsenow:biohazard_boots:1",
+    "outputItems": [
+      "minecraft:white_wool:2",
+      "apocalypsenow:polyester:2"
+    ]
+  },
+  {
+    "inputItem": "apocalypsenow:polyester:4",
+    "outputItems": [
+      "apocalypsenow:polyesterthread:8",
+      "apocalypsenow:needle:1"
+    ]
+  },
+  {
+    "inputItem": "minecraft:cobweb:4",
+    "outputItems": [
+      "minecraft:string:4"
+    ]
+  },
+  {
+    "inputItem": "apocalypsenow:phillipsscrewdriver:1",
+    "outputItems": [
+      "minecraft:iron_nugget:1",
+      "minecraft:iron_ingot:1",
+      "apocalypsenow:plastic:1"
+    ]
+  },
+  {
+    "inputItem": "apocalypsenow:broken_plasma_tv:1",
+    "outputItems": [
+      "minecraft:iron_ingot:2",
+      "apocalypsenow:electrical_scrap:4",
+      "minecraft:white_stained_glass_pane:1",
+      "minecraft:redstone:1",
+      "apocalypsenow:nailbox:1"
+    ]
+  },
+  {
+    "inputItem": "apocalypsenow:electrical_scrap:1",
+    "outputItems": [
+      "apocalypsenow:phillipsscrewdriver:1",
+      "apocalypsenow:smartphone:1"
+    ]
+  }
+]

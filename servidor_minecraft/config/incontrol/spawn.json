@@ -1,0 +1,10 @@
+[
+  {
+    "mob": "minecraft:skeleton",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:creeper",
+    "result": "deny"
+  }
+]

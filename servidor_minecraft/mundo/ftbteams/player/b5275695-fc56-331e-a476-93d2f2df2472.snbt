@@ -1,0 +1,17 @@
+{
+	id: "b5275695-fc56-331e-a476-93d2f2df2472"
+	type: "player"
+	player_name: "Jose_FB"
+	ranks: {
+		b5275695-fc56-331e-a476-93d2f2df2472: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Jose_FB"
+		"ftbteams:description": ""
+		"ftbteams:color": "#84FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

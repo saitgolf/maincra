@@ -1,0 +1,53 @@
+# ===========================
+# Zombie Extreme - Configuración Base
+# Compatibilidad con Lootr y otros mods de loot
+# ===========================
+
+[general]
+# Si es true, usa el sistema de cofres original del mod
+# (evita que otros mods intenten reemplazar sus cofres)
+use_native_loot = true
+
+# Permite generar cofres del mod en dimensiones personalizadas
+# (si usas Lost Cities, Twilight Forest, etc.)
+allow_in_other_dimensions = true
+
+# Si es true, protege los cofres del mod de ser reemplazados por otros mods
+# (recomendado para evitar conflictos con Lootr)
+protect_loot_tables = true
+
+# Si es true, los cofres del mod se regeneran una vez por jugador (similar a Lootr)
+# Si es false, el loot es compartido globalmente
+per_player_loot = false
+
+# Nivel de registro en consola: 0 = nada, 1 = errores, 2 = todo
+log_level = 1
+
+# ===========================
+# Ajustes opcionales de cofres y loot
+# ===========================
+
+[chests]
+# Probabilidad de generar cofres en estructuras (1.0 = 100%)
+spawn_chest_chance = 1.0
+
+# Si es true, los cofres pueden reaparecer tras un reinicio de servidor
+regenerate_on_restart = true
+
+# Evita que Lootr u otros mods conviertan los cofres de Zombie Extreme
+# (solo informativo; Lootr ya los ignora con tu blacklist)
+lootr_safe_mode = true
+
+# Si es true, los cofres del mod se pueden romper manualmente
+breakable = true
+
+# ===========================
+# Compatibilidad
+# ===========================
+
+[compatibility]
+# Evita conversión por Lootr (duplicado de seguridad)
+lootr_compatible = true
+
+# Si otro mod intenta registrar la misma tabla de loot, prioriza la del Zombie Extreme
+force_zombieextreme_loot = true

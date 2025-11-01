@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "b5275695fc56331ea47693d2f2df2472"
+	name: "Jose_FB#b5275695"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
